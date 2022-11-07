@@ -5,5 +5,5 @@
 
 **Datos personales**
 - Ciudad de Origen: Quito
--Idiomas: Español
--Deportes: Basket 
+- Idiomas: Español
+- Deportes: Basket 
